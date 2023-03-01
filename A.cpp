@@ -1,4 +1,4 @@
-[9:55 am, 29/04/2022] Shubham More Pict: #include<bits/stdc++.h>
+#include<bits/stdc++.h>
 
 using namespace std;
 
